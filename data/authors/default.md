@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Dominic Hains
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Lead Developer & Co-founder
+company: Hains Technologies
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/DominicHains
+linkedin: https://www.linkedin.com/in/dominic-hains-bb7806162/
+github: https://github.com/hainsdominic
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
